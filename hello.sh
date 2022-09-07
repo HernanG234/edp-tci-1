@@ -2,3 +2,4 @@
 
 echo "Hello world!"
 cat a.txt
+echo "Bye!"
