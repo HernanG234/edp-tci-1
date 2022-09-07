@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello!"
+echo "Hello world!"
+cat a.txt
